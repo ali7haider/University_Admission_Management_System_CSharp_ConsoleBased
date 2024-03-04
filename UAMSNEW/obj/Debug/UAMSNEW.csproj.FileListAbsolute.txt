@@ -1,0 +1,7 @@
+D:\Study\Semester 2\Object Oriented Programming\6 Tasks Week 5\UAMSNEW\UAMSNEW\bin\Debug\UAMSNEW.exe.config
+D:\Study\Semester 2\Object Oriented Programming\6 Tasks Week 5\UAMSNEW\UAMSNEW\bin\Debug\UAMSNEW.exe
+D:\Study\Semester 2\Object Oriented Programming\6 Tasks Week 5\UAMSNEW\UAMSNEW\bin\Debug\UAMSNEW.pdb
+D:\Study\Semester 2\Object Oriented Programming\6 Tasks Week 5\UAMSNEW\UAMSNEW\obj\Debug\UAMSNEW.csproj.AssemblyReference.cache
+D:\Study\Semester 2\Object Oriented Programming\6 Tasks Week 5\UAMSNEW\UAMSNEW\obj\Debug\UAMSNEW.csproj.CoreCompileInputs.cache
+D:\Study\Semester 2\Object Oriented Programming\6 Tasks Week 5\UAMSNEW\UAMSNEW\obj\Debug\UAMSNEW.exe
+D:\Study\Semester 2\Object Oriented Programming\6 Tasks Week 5\UAMSNEW\UAMSNEW\obj\Debug\UAMSNEW.pdb
